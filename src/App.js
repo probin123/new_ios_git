@@ -107,7 +107,7 @@ const App = () => {
                     </div></span>
                 </div>
                 <div class="card-footer p-1">
-                  <span class="text-danger"><b>NOTE:</b>All profile pictures will go through an approval</span>
+                  <span class="text-danger"><b>NOTE:</b>A pictures will go through an approval</span>
                 </div>
               </div>
             </div>
